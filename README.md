@@ -10,6 +10,8 @@ the inspiration for this plugin came from the microbeats on the Björk album Ves
 <br>
 how to install:
 <br>
+download the zip file under Releases
+<br>
 VST3: drag the vst3 into /Library/Audio/Plug-Ins/VST3/
 <br>
 AU: drag the au into /Library/Audio/Plug-Ins/Components/
