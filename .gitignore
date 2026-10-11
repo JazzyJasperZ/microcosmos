@@ -1,0 +1,12 @@
+# Build output 
+Builds/ 
+build/ 
+cmake-build-*/ 
+*.xcuserstate xcuserdata/ 
+.vs/ 
+*.user 
+*.suo 
+.DS_Store 
+
+# Projucer-generated
+JuceLibraryCode/
