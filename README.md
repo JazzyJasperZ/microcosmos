@@ -7,6 +7,9 @@ audio plugin for glitchy textures and microbeats
 <br>
 the inspiration for this plugin came from the microbeats on the Björk album Vespertine, which she described as a "microcosmos of 30 or 40 beats, interacting." works best on drum loops, pads, and any sustained textural audio source (foley, vocals, etc.) play around with it!
 <br>
+<br>
 how to install:
+<br>
 VST3: drag the vst3 into /Library/Audio/Plug-Ins/VST3/
+<br>
 AU: drag the au into /Library/Audio/Plug-Ins/Components/
